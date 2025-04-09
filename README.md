@@ -1,3 +1,4 @@
+# Author: Komal Chauhan (11_April_25)
 # Quiz_Application
 
 ## 📌 Overview
@@ -48,6 +49,10 @@ Contributions are welcome! Feel free to submit pull requests with improvements o
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
+
+## 📫 Contact
+For any inquiries or feedback, please contact me at https://www.linkedin.com/in/komal0chauhan?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app .
+
 
 ---
 🌟 **Enjoy playing and improving your knowledge!** 🌟
